@@ -1,4 +1,4 @@
-# Clima CLI
+# Clima CLI ❄️
 
 ## Comenzando 🚀
 
